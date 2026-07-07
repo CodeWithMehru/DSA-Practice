@@ -50,7 +50,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 - **Portfolio:** https://codewithmehru.netlify.app/
 
 ---
-*âConsistency is what transforms average into excellence.â*
+*“Consistency is what transforms average into excellence.”*
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
