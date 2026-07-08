@@ -59,6 +59,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -67,4 +68,12 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
