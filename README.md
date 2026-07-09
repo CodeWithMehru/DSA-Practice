@@ -76,4 +76,24 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Array
+|  |
+| ------- |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
+## Hash Table
+|  |
+| ------- |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
+## Binary Search
+|  |
+| ------- |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
