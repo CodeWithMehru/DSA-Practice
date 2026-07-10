@@ -80,6 +80,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -96,4 +98,25 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+## Sorting
+|  |
+| ------- |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
