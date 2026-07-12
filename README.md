@@ -79,11 +79,13 @@ If you are also preparing for technical interviews, exploring competitive progra
 ## Array
 |  |
 | ------- |
+| [1256-rank-transform-of-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [1256-rank-transform-of-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -120,6 +122,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 ## Sorting
 |  |
 | ------- |
+| [1256-rank-transform-of-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
