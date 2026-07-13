@@ -132,4 +132,8 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
