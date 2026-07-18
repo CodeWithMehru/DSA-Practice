@@ -58,6 +58,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -85,6 +86,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -152,6 +154,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
