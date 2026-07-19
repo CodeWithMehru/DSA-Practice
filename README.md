@@ -76,6 +76,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 ## String
 |  |
 | ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -128,6 +129,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 ## Greedy
 |  |
 | ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -171,4 +173,12 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
