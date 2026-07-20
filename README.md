@@ -87,6 +87,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
+| [1386-shift-2d-grid](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1386-shift-2d-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -164,6 +165,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 ## Simulation
 |  |
 | ------- |
+| [1386-shift-2d-grid](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1386-shift-2d-grid) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -181,4 +183,8 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1386-shift-2d-grid](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1386-shift-2d-grid) |
 <!---LeetCode Topics End-->
