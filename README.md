@@ -77,6 +77,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3805-maximize-active-section-with-trade-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -154,6 +155,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1212-sequential-digits) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
