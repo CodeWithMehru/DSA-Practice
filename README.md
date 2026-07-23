@@ -61,6 +61,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | [2106-find-greatest-common-divisor-of-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -94,6 +95,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3804-maximize-active-section-with-trade-ii) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -139,6 +141,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 ## Bit Manipulation
 |  |
 | ------- |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
