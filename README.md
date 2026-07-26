@@ -58,6 +58,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -91,6 +92,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1256-rank-transform-of-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1386-shift-2d-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -150,6 +152,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1256-rank-transform-of-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3859-maximum-product-of-two-digits) |
