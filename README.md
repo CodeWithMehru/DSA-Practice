@@ -84,6 +84,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -114,6 +115,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -150,6 +152,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -163,6 +166,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1256-rank-transform-of-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3859-maximum-product-of-two-digits) |
@@ -202,6 +206,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 ## Counting
 |  |
 | ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Stack
