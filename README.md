@@ -58,6 +58,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -79,6 +80,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -98,6 +100,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1256-rank-transform-of-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1386-shift-2d-grid) |
@@ -145,6 +148,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -233,4 +237,8 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
