@@ -117,6 +117,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | [3824-number-of-unique-xor-triplets-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [4107-find-missing-elements](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [4107-find-missing-elements](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -180,6 +182,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3859-maximum-product-of-two-digits) |
+| [4107-find-missing-elements](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
