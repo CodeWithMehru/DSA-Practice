@@ -144,6 +144,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3561-remove-methods-from-project) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -188,10 +189,12 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
+| [3561-remove-methods-from-project](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3561-remove-methods-from-project) |
 ## Enumeration
 |  |
 | ------- |
