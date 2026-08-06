@@ -66,6 +66,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -199,6 +200,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1212-sequential-digits) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Number Theory
