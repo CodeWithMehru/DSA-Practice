@@ -61,6 +61,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | [0486-predict-the-winner](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1522-stone-game-iii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -101,6 +102,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
@@ -109,6 +111,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | [0486-predict-the-winner](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1386-shift-2d-grid) |
 | [1522-stone-game-iii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1522-stone-game-iii) |
@@ -162,6 +165,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | ------- |
 | [0486-predict-the-winner](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1522-stone-game-iii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -264,9 +268,18 @@ If you are also preparing for technical interviews, exploring competitive progra
 | ------- |
 | [0486-predict-the-winner](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1522-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3635-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1240-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
