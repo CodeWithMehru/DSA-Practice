@@ -63,6 +63,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | [0909-stone-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
@@ -167,6 +168,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | [0909-stone-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
@@ -270,6 +272,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | [0909-stone-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -278,8 +281,18 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
