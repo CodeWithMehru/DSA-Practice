@@ -118,6 +118,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | [1522-stone-game-iii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1522-stone-game-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
@@ -132,6 +133,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
@@ -294,6 +296,10 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
 ## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
@@ -302,8 +308,8 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
+## Sliding Window
 |  |
 | ------- |
-| [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
