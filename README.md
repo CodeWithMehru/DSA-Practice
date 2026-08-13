@@ -91,6 +91,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -118,6 +119,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 | [1522-stone-game-iii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1522-stone-game-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3583-sorted-gcd-pair-queries](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3583-sorted-gcd-pair-queries) |
@@ -261,6 +263,7 @@ If you are also preparing for technical interviews, exploring competitive progra
 ## Segment Tree
 |  |
 | ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3804-maximize-active-section-with-trade-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -296,6 +299,10 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
 ## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
@@ -304,12 +311,12 @@ If you are also preparing for technical interviews, exploring competitive progra
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
-|  |
-| ------- |
-| [1617-stone-game-iv](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1617-stone-game-iv) |
 ## Sliding Window
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+## Ordered Set
+|  |
+| ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2319-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
