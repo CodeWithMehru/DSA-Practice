@@ -10,6 +10,7 @@
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [1487-cinema-seat-allocation](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1487-cinema-seat-allocation) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
