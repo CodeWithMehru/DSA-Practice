@@ -55,10 +55,12 @@
 |  |
 | ------- |
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
