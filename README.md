@@ -36,12 +36,14 @@
 | [1487-cinema-seat-allocation](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1487-cinema-seat-allocation) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1487-cinema-seat-allocation) |
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,4 +89,12 @@
 |  |
 | ------- |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
+## Counting
+|  |
+| ------- |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
