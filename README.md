@@ -12,6 +12,7 @@
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -38,6 +39,7 @@
 | [1487-cinema-seat-allocation](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1487-cinema-seat-allocation) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Greedy
@@ -52,6 +54,7 @@
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1487-cinema-seat-allocation) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -118,4 +121,12 @@
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
