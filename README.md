@@ -31,6 +31,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [1685-stone-game-v](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
 ## Game Theory
@@ -68,6 +69,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
