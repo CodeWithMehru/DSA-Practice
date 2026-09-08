@@ -26,6 +26,7 @@
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4245-count-commas-in-range](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4245-count-commas-in-range) |
 | [4256-construct-uniform-parity-array-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
