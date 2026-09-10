@@ -143,4 +143,16 @@
 |  |
 | ------- |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
