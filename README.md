@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0864-image-overlap](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0864-image-overlap) |
 | [1487-cinema-seat-allocation](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1487-cinema-seat-allocation) |
 | [1685-stone-game-v](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
@@ -149,6 +150,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0864-image-overlap](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0864-image-overlap) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
