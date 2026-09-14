@@ -24,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0866-rectangle-overlap) |
 | [1685-stone-game-v](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
@@ -168,4 +169,8 @@
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3799-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
