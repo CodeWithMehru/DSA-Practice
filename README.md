@@ -41,6 +41,7 @@
 | [0977-distinct-subsequences-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0977-distinct-subsequences-ii) |
 | [1685-stone-game-v](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
 |  |
@@ -64,6 +65,7 @@
 | [1487-cinema-seat-allocation](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1487-cinema-seat-allocation) |
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
@@ -81,6 +83,7 @@
 | [0115-distinct-subsequences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0977-distinct-subsequences-ii) |
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -130,6 +133,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
