@@ -26,6 +26,7 @@
 | ------- |
 | [0866-rectangle-overlap](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0866-rectangle-overlap) |
 | [1685-stone-game-v](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1685-stone-game-v) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -40,6 +41,7 @@
 | [0115-distinct-subsequences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0977-distinct-subsequences-ii) |
 | [1685-stone-game-v](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1685-stone-game-v) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -101,6 +103,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
@@ -113,6 +116,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
 | [4284-smallest-stable-index-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4285-smallest-stable-index-ii) |
