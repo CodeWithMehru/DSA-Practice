@@ -6,6 +6,7 @@
 | ------- |
 | [0864-image-overlap](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0864-image-overlap) |
 | [1487-cinema-seat-allocation](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1487-cinema-seat-allocation) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1685-stone-game-v](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0977-distinct-subsequences-ii) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1685-stone-game-v](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1685-stone-game-v) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1487-cinema-seat-allocation) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3799-unique-3-digit-even-numbers) |
@@ -93,11 +96,13 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
