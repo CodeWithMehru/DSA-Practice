@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1685-stone-game-v](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1685-stone-game-v) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
@@ -190,4 +191,5 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
