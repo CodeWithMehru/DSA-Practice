@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3811-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3811-reverse-degree-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3811-reverse-degree-of-a-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
