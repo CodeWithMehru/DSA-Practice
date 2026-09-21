@@ -16,6 +16,7 @@
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3799-unique-3-digit-even-numbers) |
+| [3831-find-x-value-of-array-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3831-find-x-value-of-array-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4256-construct-uniform-parity-array-i) |
@@ -32,6 +33,7 @@
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3831-find-x-value-of-array-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3831-find-x-value-of-array-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4245-count-commas-in-range](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4248-count-commas-in-range-ii) |
@@ -48,6 +50,7 @@
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3831-find-x-value-of-array-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3831-find-x-value-of-array-i) |
 ## Game Theory
 |  |
 | ------- |
