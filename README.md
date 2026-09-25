@@ -60,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1188-brace-expansion-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1188-brace-expansion-ii) |
 | [1487-cinema-seat-allocation](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0977-distinct-subsequences-ii) |
+| [1188-brace-expansion-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -160,6 +162,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1188-brace-expansion-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -170,6 +173,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1188-brace-expansion-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1188-brace-expansion-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -197,4 +201,12 @@
 | ------- |
 | [0866-rectangle-overlap](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1501-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1188-brace-expansion-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1188-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1188-brace-expansion-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1188-brace-expansion-ii) |
 <!---LeetCode Topics End-->
