@@ -100,6 +100,7 @@
 | [1188-brace-expansion-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1188-brace-expansion-ii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -214,8 +215,10 @@
 | ------- |
 | [1188-brace-expansion-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1188-brace-expansion-ii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
