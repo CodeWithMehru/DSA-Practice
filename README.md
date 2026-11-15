@@ -7,6 +7,7 @@
 | [0864-image-overlap](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0864-image-overlap) |
 | [1487-cinema-seat-allocation](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1685-stone-game-v](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1685-stone-game-v) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0866-rectangle-overlap](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1501-circle-and-rectangle-overlapping) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1685-stone-game-v](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1685-stone-game-v) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
@@ -47,6 +49,7 @@
 | [0115-distinct-subsequences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0977-distinct-subsequences-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1685-stone-game-v](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1685-stone-game-v) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
@@ -139,6 +142,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
 | [4284-smallest-stable-index-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4284-smallest-stable-index-i) |
