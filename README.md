@@ -95,6 +95,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3811-reverse-degree-of-a-string) |
 ## String
@@ -108,6 +109,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
