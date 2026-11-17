@@ -55,6 +55,7 @@
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3831-find-x-value-of-array-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3831-find-x-value-of-array-i) |
 ## Game Theory
@@ -111,6 +112,7 @@
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3811-reverse-degree-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3811-reverse-degree-of-a-string) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
