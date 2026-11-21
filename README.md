@@ -18,6 +18,7 @@
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3831-find-x-value-of-array-i) |
@@ -75,6 +76,7 @@
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -118,6 +120,7 @@
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3811-reverse-degree-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3811-reverse-degree-of-a-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -205,10 +208,12 @@
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
