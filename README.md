@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0864-image-overlap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1487-cinema-seat-allocation](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/CodeWithMehru/DSA-Practice/tree/master/0866-rectangle-overlap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1685-stone-game-v](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1685-stone-game-v) |
@@ -153,6 +155,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
@@ -244,4 +247,12 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
