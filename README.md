@@ -11,6 +11,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1685-stone-game-v](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1685-stone-game-v) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
@@ -89,6 +90,7 @@
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1487-cinema-seat-allocation) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -190,6 +192,7 @@
 | ------- |
 | [1188-brace-expansion-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
