@@ -21,6 +21,7 @@
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3576-find-subtree-sizes-after-changes) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3831-find-x-value-of-array-i) |
@@ -42,6 +43,7 @@
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3831-find-x-value-of-array-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3831-find-x-value-of-array-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4245-count-commas-in-range](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4245-count-commas-in-range) |
@@ -135,6 +137,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Minimax
 |  |
 | ------- |
@@ -174,6 +178,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3799-unique-3-digit-even-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3799-unique-3-digit-even-numbers) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
