@@ -27,6 +27,7 @@
 | [3831-find-x-value-of-array-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3831-find-x-value-of-array-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4105-smallest-unique-subarray](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4105-smallest-unique-subarray) |
 | [4256-construct-uniform-parity-array-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4284-smallest-stable-index-i) |
@@ -87,6 +88,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4105-smallest-unique-subarray](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4105-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [4105-smallest-unique-subarray](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4105-smallest-unique-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -263,4 +266,16 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4105-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4105-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4105-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
