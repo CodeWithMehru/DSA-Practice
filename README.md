@@ -44,6 +44,7 @@
 | [2002-stone-game-viii](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3625-stone-removal-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3625-stone-removal-game) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3831-find-x-value-of-array-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3831-find-x-value-of-array-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -110,6 +111,7 @@
 | ------- |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3625-stone-removal-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3625-stone-removal-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3811-reverse-degree-of-a-string) |
 ## String
 |  |
