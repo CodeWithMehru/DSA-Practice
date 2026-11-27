@@ -9,7 +9,7 @@ class Solution(object):
             if p < min_price:
                 min_price = p
 
-        # Number of items whose factor is a multiple of f
+        
         div_count = [0] * (max_factor + 1)
         for f in range(1, max_factor + 1):
             if freq[f]:
@@ -18,7 +18,7 @@ class Solution(object):
                     total += freq[mult]
                 div_count[f] = total
 
-        # 0/1 Knapsack: buying the first copy of item i yields div_count[f_i] total copies
+        
         dp = [-1] * (budget + 1)
         dp[0] = 0
 
@@ -29,7 +29,7 @@ class Solution(object):
                     if dp[c - p] != -1 and dp[c - p] + gain > dp[c]:
                         dp[c] = dp[c - p] + gain
 
-        # Spend any remaining budget on extra copies of the cheapest item
+        
         ans = 0
         for c in range(budget + 1):
             if dp[c] != -1:
