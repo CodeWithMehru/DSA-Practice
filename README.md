@@ -23,6 +23,7 @@
 | [3576-find-subtree-sizes-after-changes](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3831-find-x-value-of-array-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -67,6 +68,7 @@
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [3831-find-x-value-of-array-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3831-find-x-value-of-array-i) |
 ## Game Theory
 |  |
@@ -99,6 +101,7 @@
 | [2039-sum-game](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2039-sum-game) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CodeWithMehru/DSA-Practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/CodeWithMehru/DSA-Practice/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/CodeWithMehru/DSA-Practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
